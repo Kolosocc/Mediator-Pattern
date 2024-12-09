@@ -1,0 +1,14 @@
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\bin\Debug\net8.0\Mediator Pattern Chat.exe
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\bin\Debug\net8.0\Mediator Pattern Chat.deps.json
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\bin\Debug\net8.0\Mediator Pattern Chat.runtimeconfig.json
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\bin\Debug\net8.0\Mediator Pattern Chat.dll
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\bin\Debug\net8.0\Mediator Pattern Chat.pdb
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\obj\Debug\net8.0\Mediator Pattern Chat.GeneratedMSBuildEditorConfig.editorconfig
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\obj\Debug\net8.0\Mediator Pattern Chat.AssemblyInfoInputs.cache
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\obj\Debug\net8.0\Mediator Pattern Chat.AssemblyInfo.cs
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\obj\Debug\net8.0\Mediator Pattern Chat.csproj.CoreCompileInputs.cache
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\obj\Debug\net8.0\Mediator Pattern Chat.dll
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\obj\Debug\net8.0\refint\Mediator Pattern Chat.dll
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\obj\Debug\net8.0\Mediator Pattern Chat.pdb
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\obj\Debug\net8.0\Mediator Pattern Chat.genruntimeconfig.cache
+G:\Three\Csh\Mediator Pattern Chat\Mediator Pattern Chat\obj\Debug\net8.0\ref\Mediator Pattern Chat.dll
